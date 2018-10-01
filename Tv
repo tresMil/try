@@ -1,0 +1,229 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="MEXICO", Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.ontvtonight.com/static/2/Open/400x300_1845/Source/46261/canal5hd.png"group-title="ESTABLES BY GAME SNAKE LAND l.S",Canal 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", Azteca 7
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/Stream(05)/index.m3u8
+
+#EXTINF:-1,lista_457
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/Imagen58_5_15.png/revision/latest?cb=20150316151928&path-prefix=es", Canal 5
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/LOGO_LAS_ESTRELLAS_2017.svg/revision/latest/scale-to-width-down/200?cb=20170108213622",Estrellas
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/mx_canal-5-galavision_m.png",Gala TV
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png",Azteca13
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca13)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/deda2ffadf26c0d30c8b39b2bb273934_100x100.gif",Unicable
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7",A&E
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png/revision/latest?cb=20160812222848",Distrito Comedia
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png",Sony
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg",AXN
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2yovqqh.jpg",Space
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/30mv6eu.jpg",TNT
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/r2tjx2.jpg",TNT Series
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/34hx7kg.jpg",CINEMAX HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/1038d9bf7b53d57b3ca486a8d42196b1_170x70.png",I-SAT
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-goldenhd.jpg",Golden
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.eutelsattvawards.com/dem/2015/media/logo-sundance.png",Sundace Channel
+http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
+
+#EXTINF:-1 tvg-Logo="http://latino-webtv.com/gallery_gen/b42331787eb3c9aea4e6a39789cec9c8_150x80.png",ESPN HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg",ESPN2 HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/e12l42.jpg",ESPN3
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="LATINO", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="SudAmerica", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://yusnaby.com/wp-content/uploads/tvmarti.jpg" group-title="CentroAmerica", TV MARTÃ (Cuba)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="SudAmerica", MEGA TV PERU
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="Infantiles", Cartoon Network
+http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles", Tiin
+http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png" group-title="CULTURA", History
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLha/55295e0162.PNG" group-title="CULTURA", H2
+http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="CULTURA", Lifetime
+http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reX61/7468ec8819.png" group-title="CULTURA", E! Entertainment
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", A&E
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="CINE", Comedy Central
+http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/5.png" group-title="CINE", Distrito Comedia
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/11.png" group-title="CINE", Isat
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/tcm.png" group-title="CINE", TCM
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="CINE", AMC
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/20.png" group-title="CINE", Sony
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="CINE", Space
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/tnt-series.png" group-title="CINE", TNT Series
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/16.png" group-title="CINE", CINEmax
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2929.gif" group-title="CINE", CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLur/cf2e6a6f87.png" group-title="DEPORTES", TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/0mYHdap.png" group-title="LATINO",AMC HD [Opt-1]
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="LATINO",Comedy Central
+http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uXp0iUW.png" group-title="LATINO",Cuenca Vision
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle [Opt-1]
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ism40Xo.png" group-title="LATINO",E!
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/XnIYHUd.png" group-title="LATINO",National Geographic [Opt-1]
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO",Azteca Mas
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/RGUbr5h.png" group-title="MEXICO",Bandamax
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.televisa.com/2017/04/logo_de_pelicula.jpg" group-title="MEXICO",De Pelicula HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vUgTtqZ.png" group-title="MEXICO",Ritmoson
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vOH3TOn.png" group-title="MEXICO",TeleHit [Opt-1]
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RWsmqRF.png" group-title="MEXICO",Teleritmo
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+
+#EXTINF:-1,Azteca Uno HD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTINF:-1,ADN 40 HD
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1,AZTECA 13 G67
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Azteca UNO
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTINF:-1,Gala tv
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+
+#EXTINF:-1,Space
+http://jadegames.ml/Content/HLS/Live/Channel(SPACE)/Stream(06)/index.m3u8
+
+#EXTINF:-1,SPACE HD
+http://jadegames.ml/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+#EXTINF:-1,CANAL 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Without category:Azteca Uno HD (4)
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
+
+#EXTINF:-1,AZTECA UNO
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTGRP:unsorted
+http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
+
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTGRP:unsorted
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTGRP:unsorted
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTGRP:unsorted
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
